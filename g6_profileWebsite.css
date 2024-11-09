@@ -103,17 +103,17 @@ header h3 {
 }
 
 .members .members-container {
-    display: flex; /* Use flexbox for horizontal layout */
-    flex-wrap: wrap; /* Allow wrapping to keep items in one line */
-    gap: 1rem; /* Space between boxes */
-    align-items: center; /* Center items vertically */
-    justify-content: center; /* Center items horizontally */
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 1rem;
+    align-items: center; 
+    justify-content: center; 
     margin-top: 2rem;
 }
 
 .members .box {
-    width: 200px; /* Set a fixed width for each box */
-    height: auto; /* Allow height to adjust based on content */
+    width: 200px;
+    height: auto;
     padding: 10px;
     padding-bottom: 20px; /* Extra padding at the bottom */
     display: flex;
@@ -297,7 +297,6 @@ header h3 {
     font-size: 18px;
     line-height: 1.6;
     margin-top: 5px;  /* Controls the space above the paragraph */
-    
 }
 
 
