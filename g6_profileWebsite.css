@@ -60,7 +60,7 @@ header h3 {
 .home{
     width: 100%;
     min-height: 100vh;
-    background: url(images/stationary.jpg); /*This is for the background*/
+    background: url(stationary.jpg); /*This is for the background*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
